@@ -52,3 +52,56 @@ References: https://www.coursera.org/learn/learning-how-to-learn/home/module/1
   <summary>How does the text describe the neural pathways in the Focused Mode?</summary>
   A: They are like familiar, nicely paved roads where thoughts can move smoothly along established patterns.
 </details>
+
+**Flashcard Set: Practical Applications of Focused and Diffuse Modes**
+
+<details>
+  <summary>What technique did Salvador Dalí use to harness the power of both thinking modes?</summary>
+  A: He would relax in a chair with a key in his hand, letting his mind go free. As he started to fall asleep, the key would drop and wake him up, allowing him to capture the diffuse mode connections before returning to focused mode.
+</details>
+
+<details>
+  <summary>How did Thomas Edison use a similar technique to Dalí?</summary>
+  A: He would relax in a chair holding ball bearings. When he fell asleep, the ball bearings would drop and wake him up, allowing him to capture his diffuse mode ideas and bring them into focused mode.
+</details>
+
+<details>
+  <summary>What is the key principle about learning difficult material?</summary>
+  A: Your mind needs to alternate between focused and diffuse modes to learn effectively, especially when dealing with challenging material.
+</details>
+
+<details>
+  <summary>How is learning compared to building physical strength in the text?</summary>
+  A: Just as you can't build muscle by working out only one day before a competition, you can't build neural structure by cramming. Both require consistent, daily practice to grow gradually.
+</details>
+
+<details>
+  <summary>What is the "neuro-scaffold" concept mentioned in the text?</summary>
+  A: It's the neural structure that develops gradually through daily practice, providing a foundation for your thinking, similar to how muscles grow through regular exercise.
+</details>
+
+<details>
+  <summary>What happens when you're in the diffuse mode according to the examples?</summary>
+  A: Your mind runs free and makes new connections, often while still vaguely thinking about what you were previously focusing on, but in a more relaxed way.
+</details>
+
+<details>
+  <summary>What is the key takeaway about the relationship between focused and diffuse modes?</summary>
+  A: They work together in a cycle - diffuse mode helps generate new ideas and connections, while focused mode helps develop and build upon these ideas.
+</details>
+
+<details>
+  <summary>What does the text suggest about the timing of learning?</summary>
+  A: Learning something difficult takes time and requires alternating between different learning modes as your brain processes and assimilates new material.
+</details>
+
+<details>
+  <summary>How do the examples of Dalí and Edison demonstrate the practical application of these modes?</summary>
+  A: They show how creative and scientific minds alike use both modes, transitioning from focused work to diffuse relaxation and back again to enhance their problem-solving abilities.
+</details>
+
+<details>
+  <summary>What is the main message about effective learning from the text?</summary>
+  A: Effective learning requires a balance between focused and diffuse modes, with regular practice and time for both types of thinking to work together.
+</details>
+
