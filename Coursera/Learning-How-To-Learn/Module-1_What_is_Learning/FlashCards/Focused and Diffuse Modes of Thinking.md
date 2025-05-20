@@ -1,7 +1,7 @@
 
 References: https://www.coursera.org/learn/learning-how-to-learn/home/module/1
 
-**Flashcard Set: Focused and Diffuse Modes of Thinking**
+### Flashcard Set: Focused and Diffuse Modes of Thinking
 
 <details>
   <summary>What are the two fundamental modes of thinking?</summary>
@@ -53,7 +53,7 @@ References: https://www.coursera.org/learn/learning-how-to-learn/home/module/1
   A: They are like familiar, nicely paved roads where thoughts can move smoothly along established patterns.
 </details>
 
-**Flashcard Set: Practical Applications of Focused and Diffuse Modes**
+### Flashcard Set: Practical Applications of Focused and Diffuse Modes
 
 <details>
   <summary>What technique did Salvador Dalí use to harness the power of both thinking modes?</summary>
@@ -105,7 +105,7 @@ References: https://www.coursera.org/learn/learning-how-to-learn/home/module/1
   A: Effective learning requires a balance between focused and diffuse modes, with regular practice and time for both types of thinking to work together.
 </details>
 
-**Flashcard Set: Learning and the Brain**
+### Flashcard Set: Learning and the Brain
 
 <details>
   <summary>What are the key characteristics of the human brain?</summary>
@@ -149,7 +149,7 @@ References: https://www.coursera.org/learn/learning-how-to-learn/home/module/1
 
 I'll create comprehensive flashcards based on the key concepts from all the provided materials. I'll organize them by major themes for better learning.
 
-**Theme 1: Memory Systems**
+### Theme 1: Memory Systems
 
 <details>
   <summary>Q: What are the two major types of memory systems discussed in learning?</summary>
@@ -166,7 +166,7 @@ I'll create comprehensive flashcards based on the key concepts from all the prov
   A: It's like a storage warehouse distributed across the brain, can store billions of items, requires practice and repetition to access information effectively, and stores fundamental concepts and techniques.
 </details>
 
-**Theme 2: Learning and Practice**
+### Theme 2: Learning and Practice
 
 <details>
   <summary>Q: What is the "Practice Makes Permanent" principle?</summary>
@@ -183,7 +183,7 @@ I'll create comprehensive flashcards based on the key concepts from all the prov
   A: A technique where you repeat information over several days rather than cramming. It's more effective because it allows time for synaptic connections to form and strengthen, like letting mortar dry between bricks.
 </details>
 
-**Theme 3: Sleep and Learning**
+### Theme 3: Sleep and Learning
 
 <details>
   <summary>Q: How does sleep affect learning and memory?</summary>
@@ -195,7 +195,7 @@ I'll create comprehensive flashcards based on the key concepts from all the prov
   A: Brain cells shrink, creating more space between them, allowing fluid to flow and wash out toxins. The brain also rehearses difficult learning material and strengthens neural patterns.
 </details>
 
-**Theme 4: Procrastination and Focus**
+### Theme 4: Procrastination and Focus
 
 <details>
   <summary>Q: What is the relationship between procrastination and pain?</summary>
@@ -207,7 +207,7 @@ I'll create comprehensive flashcards based on the key concepts from all the prov
   A: Use the Pomodoro Technique (25-minute focused work sessions), turn off interruptions, and reward yourself after completion. This helps build neural patterns needed for learning challenging material.
 </details>
 
-**Theme 5: Abstract Learning**
+### Theme 5: Abstract Learning
 
 <details>
   <summary>Q: Why are math and science sometimes more challenging to learn?</summary>
@@ -219,7 +219,7 @@ I'll create comprehensive flashcards based on the key concepts from all the prov
   A: The brain needs more practice with abstract concepts to make them real and concrete. The neural patterns created through practice become real and concrete, even if the ideas themselves are abstract.
 </details>
 
-**Theme 6: Learning Environment**
+### Theme 6: Learning Environment
 
 <details>
   <summary>Q: What is the importance of an enriched environment for learning?</summary>
