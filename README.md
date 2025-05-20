@@ -1,2 +1,2 @@
 # My-Learning-Paths
-Anything that I found useful
+I'm relearning how I learn things so I enrolled this course on Coursera and created this repo that stores flashcards with the ambition to learn better. This should include IT and non-IT related materials.
